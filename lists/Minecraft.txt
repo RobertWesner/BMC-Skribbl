@@ -1,0 +1,121 @@
+### General list of Minecraft terms for b1.7.3
+### Adopted from: https://www.reddit.com/r/skribbl/comments/hvhm5w/minecraft_list_there_are_items_mobs_blocks_etc/
+
+Air
+Apple
+Arrow
+Bed
+Boat
+Bone
+Bone Meal
+Book
+Bookshelf
+Bow
+Bowl
+Bread
+Bricks
+Brown Mushroom
+Bucket
+Cactus
+Cake
+Chainmail Boots
+Chainmail Chestplate
+Chainmail Helmet
+Chainmail Leggings
+Charcoal
+Chest
+Chicken
+Clay
+Coal
+Coal Ore
+Cobblestone
+Cobweb
+Cocoa Bean
+Compass
+Cookie
+Cow
+Creeper
+Dandelion
+Diamond
+Diamond Axe
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Leggings
+Diamond Ore
+Diamond Pickaxe
+Diamond Sword
+Dirt
+Dispenser
+Egg
+Farmland
+Feather
+Fence
+Fire
+Fish
+Fishing Rod
+Flint
+Flint and Steel
+Furnace
+Ghast
+Glass
+Glowstone
+Gold
+Gold Ore
+Gold Pickaxe
+Golden Apple
+Ice
+Iron Ore
+Jack-O-Lantern
+Jukebox
+Ladder
+Lapis Lazuli
+Lapis Lazuli Ore
+Lava
+Leather
+Leaves
+Lever
+Minecart
+Pig
+Piston
+Planks
+Porkchop
+Pumpkin
+Red Mushroom
+Redstone
+Rose
+Rotten Flesh
+Saddle
+Sand
+Sandstone
+Sapling
+Seeds
+Shears
+Sheep
+Skeleton
+Slime
+Slime Ball
+Snow
+Snow Block
+Snowball
+Soul Sand
+Spider
+Spider
+Sponge
+Squid
+Stick
+Sticky Piston
+Stone
+String
+Sugar
+Sugar Cane
+TNT
+Torch
+Water
+Wheat
+Wolf
+Wool
+Workbench
+Zombie
+Zombie Pigman
